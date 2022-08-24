@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "SXBeroi8AJMlu6xvuEcjHuT6GxFfuz4PiUFE9QGBGR0WhofzJVX0qalukj1MeUgiZNZUglRnMqE/WMleL8cOww==",
+  "success": true,
+  "projectFilePath": "D:\\Applications\\Product_Project\\Project\\ProductService\\ProductService2\\ProductService2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed Rabea\\.nuget\\packages\\confluent.kafka\\1.9.2\\confluent.kafka.1.9.2.nupkg.sha512",
+    "C:\\Users\\Ahmed Rabea\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\Ahmed Rabea\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ahmed Rabea\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ahmed Rabea\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ahmed Rabea\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ahmed Rabea\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ahmed Rabea\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ahmed Rabea\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
