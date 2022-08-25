@@ -6,7 +6,7 @@ namespace PaymentService.Models
 {
     public class ProductConsumer : BackgroundService
     {
-        private readonly string Topic = "simpletalk_topic";
+        private readonly string Topic = "product-topic";
         private readonly string GroupID = "product_group";
         private readonly string bootstrapservers = "localhost:9092";
         private readonly IServiceScopeFactory scopeFactory;
